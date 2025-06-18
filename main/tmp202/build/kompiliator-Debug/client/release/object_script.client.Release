@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/clientsingleton.o
+release/authdialog.o
+release/cryptodialog.o
+release/chordmethoddialog.o
+release/steganographydialog.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_clientsingleton.o
+release/moc_authdialog.o
+release/moc_cryptodialog.o
+release/moc_chordmethoddialog.o
+release/moc_steganographydialog.o

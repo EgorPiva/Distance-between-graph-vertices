@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/clientsingleton.o
+debug/authdialog.o
+debug/cryptodialog.o
+debug/chordmethoddialog.o
+debug/steganographydialog.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_clientsingleton.o
+debug/moc_authdialog.o
+debug/moc_cryptodialog.o
+debug/moc_chordmethoddialog.o
+debug/moc_steganographydialog.o
